@@ -1,6 +1,4 @@
-Foi utilizado para este trabalho o editor de texto nano.
+Este Repositório é dedicado as aulas de laboratório de Sistemas Operacionais.
 
-O arquivo "hello" pode ser executado colocando seu local na linha de comando. Exemplo: "./hello"
+Cada atividade será separada em uma pasta correspondente ao nome da aula de laboratório.
 
-Caso exista  a necessidade de compilar o arquivo "hello.c", isto pode ser feito da seguinte forma:
-gcc hello.c -o "<nome_do_arquivo>"
