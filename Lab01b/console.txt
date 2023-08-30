@@ -1,0 +1,117 @@
+//Ex1
+| 5 4 3 |
+| 2 1 7 |
+| 8 6 9 |
+
+linha com menor número: 2
+
+//Ex 02
+media 3.86
+Nota E
+n = 13
+
+//Ex 03
+1 2 3 4 5 6 7 8 9 10 11 12 13 
+  2 3 4 5 6 7 8 9 10 11 12   
+    3 4 5 6 7 8 9 10 11     
+      4 5 6 7 8 9 10       
+        5 6 7 8 9         
+          6 7 8           
+            7             
+
+//Ex 04
+Roberto, Zé
+
+//Ex 05
+Matrix:
+| 1 2 3 |
+| 4 5 6 |
+| 7 8 9 |
+
+Matrix com linha 1 multiplicada por 2:
+| 2 4 6 |
+| 4 5 6 |
+| 7 8 9 |
+
+Matrix com coluna 1 multiplicada por 2:
+| 2 2 3 |
+| 8 5 6 |
+| 14 8 9 |
+
+//Ex 06
+Matrix:
+| 1 2 3 |
+| 4 5 6 |
+| 7 8 9 |
+
+Matrix Transposta:
+| 1 4 7 |
+| 2 5 8 |
+| 3 6 9 |
+
+//Ex 07
+Nome: Roberto 
+idade: 30 anos 
+peso: 80.20 kg 
+altura: 1.80 m
+
+Nome: Lúcia 
+idade: 25 anos 
+peso: 69.50 kg 
+altura: 1.68 m
+
+Nome: Amélia 
+idade: 50 anos 
+peso: 75.70 kg 
+altura: 1.64 m
+
+//Ex 08
+Matrix:
+| 1 2 3 |
+| 4 5 6 |
+| 7 8 9 |
+
+Matrix Transposta:
+| 1 4 7 |
+| 2 5 8 |
+| 3 6 9 |
+
+//Ex 09
+Matrix:
+| -1 2 -3 |
+| -4 -5 6 |
+| 7 -8 -9 |
+
+Matrix com valores apenas positivo:
+| 1 2 3 |
+| 4 5 6 |
+| 7 8 9 |
+
+//Ex 10
+Matrix:
+| 1 2 3 |
+| 4 5 6 |
+| 7 8 9 |
+
+Matrix com apenas a linha 2 multiplicada por 2:
+| 1 2 3 |
+| 8 10 12 |
+| 7 8 9 |
+
+//Ex 11
+Matrix com apenas a coluna 2 multiplicada por 2:
+| 1 4 3 |
+| 4 10 6 |
+| 7 16 9 |
+
+//Ex 12
+60 80 100 120 
+600 1600 3000 4800 
+
+o caracter esta 3 posisao
+
+//Ex 13
+chs
+
+//Ex 14
+hillo
