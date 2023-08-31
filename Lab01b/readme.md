@@ -8,6 +8,8 @@
 
 *Foi renomeado 'saida.txt' para 'console.txt'.
 
+*Foram adicionadas screenshots da aws. (console1.png e console2.png)
+
 *Para executar os arquivos de extensão '.c', são necessários os seguintes comandos:
 gcc <nome_do_arquivo>.c -o <nome_escolhido>
 ./<nome_escolhido>
