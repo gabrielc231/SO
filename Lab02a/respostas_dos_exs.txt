@@ -1,0 +1,8 @@
+1- A partir da saída obtida, presente no arquivo 'stderr.txt', 
+pode-se afirmar que as mensagens não estão sempre ordenadas 
+pelo valor de 'i' em ordem crescente. O 'i = 750', por exemplo, 
+veio antes do 'i = 749'.
+
+2- A partir da saída obtida presente no arquivo 'stdout.txt',
+foi possível observar, desta vez, as mensagens ordenadas pelo
+valor de 'i' em ordem crescente.
