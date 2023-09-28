@@ -1,5 +1,9 @@
 ## Documentação do trabalho
 
+- **Para a resolução do problema foi utilizado:**
+  - `p_threads.h` **: para execução de forma concorrente**
+  - `semaphore.h` **: para corrigir problema de condição de corrida**
+
 - **O editor de texto utilizado foi o `nano`.**
 
 - **Foi colocado o código proposto em um arquivo chamado `main.c`.**
