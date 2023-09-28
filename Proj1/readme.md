@@ -19,7 +19,7 @@
 	-`console.png`
 
 ## Imagens da AWS 
-![Console.png](/console.png "Foto do console da AWS")
+![Console.png](./console.png "Foto do console da AWS")
 ## Integrantes do grupo:
 - ***Nome: André Franco Raineri TIA: 32163681***
 - ***Nome: Gabriel Gonzaga Chung TIA: 32263651***
