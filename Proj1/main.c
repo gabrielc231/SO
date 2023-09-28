@@ -88,7 +88,7 @@ int main(int argc, char* argv[])
 
   if(threadNum > MAX_THREAD_NUM) 
   {
-    fprintf(stderr,"Excedeu número máximo de threads");
+    fprintf(stderr,"Excedeu número máximo de threads\n");
     return -1;
   }
 
@@ -98,14 +98,14 @@ int main(int argc, char* argv[])
   { 
     if (pthread_create( &((pthread_t*)stack)[i], NULL, &transferencia,NULL) != 0) 
     {
-      fprintf(stderr,"Falha em criar thread");
+      fprintf(stderr,"Falha em criar thread\n");
     }
   }
   for(i = 0; i < threadNum; i++) 
   {
     if (pthread_join(((pthread_t*)stack)[i],NULL) != 0) 
     {
-      fprintf(stderr,"Falha em juntar thread");
+      fprintf(stderr,"Falha em juntar thread\n");
     }
   }
   

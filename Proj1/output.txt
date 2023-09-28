@@ -32,7 +32,7 @@ Saldo de c1: 0
 Saldo de c2: 200
 Transferências concluídas e memória liberada.
 
-//Teste 2
+//Teste 2 trocando as contas
 Transferindo 10 para a conta c1
 Transferência concluída com sucesso!
 Saldo de c2: 90
@@ -66,7 +66,13 @@ Saldo de c2: 0
 Saldo de c1: 200
 Transferências concluídas e memória liberada.
 
-//Teste 3
+//Teste 3 Tentando com valor de threads acima do máximo (100)
+Excedeu número máximo de threads
+
+//Teste 4 Tentando com valor de threads acima do máximo (100) e trocando as contas
+Excedeu número máximo de threads
+
+//Teste 5 aumentando o valor das contas sem estar trocado
 Transferindo 10 para a conta c2
 Transferência concluída com sucesso!
 Saldo de c1: 990
@@ -370,7 +376,7 @@ Saldo de c1: 0
 Saldo de c2: 1100
 Transferências concluídas e memória liberada.
 
-//Teste 4
+//Teste 6 aumentando o valor das contas trocado-as
 Transferindo 10 para a conta c1
 Transferência concluída com sucesso!
 Saldo de c2: 90
