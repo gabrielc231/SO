@@ -92,7 +92,7 @@ int main(int argc, char* argv[])
     return -1;
   }
 
-  printf( "Transferindo 10 para a conta c2\n" );
+  printf( "Transferindo 10 para a conta c%d\n",c2 );
   
   for (i = 0; i < threadNum; i++) 
   { 
