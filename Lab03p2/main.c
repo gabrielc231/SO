@@ -44,6 +44,8 @@ int main(void) {
         }
     }
     printf("%lf", 4*sum);
+	printf("numero de iteracoes = %lld\n", n);
+    printf("numero de threads = %d\n",thread_count);
     free(threads);
     pthread_mutex_destroy(&mutex);
     return 0;
