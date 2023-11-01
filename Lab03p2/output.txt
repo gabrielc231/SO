@@ -1,3 +1,4 @@
+#1
 Usando mutex:
 
 pi = 3.141592
@@ -9,6 +10,8 @@ Não usando mutex:
 pi = 3.141592
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#2
 Usando mutex:
 
 pi = 3.141592
@@ -20,6 +23,8 @@ Não usando mutex:
 pi = 0.000001
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#3
 Usando mutex:
 
 pi = 3.141592
@@ -31,6 +36,8 @@ Não usando mutex:
 pi = 3.141592
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#4
 Usando mutex:
 
 pi = 3.141592
@@ -42,6 +49,8 @@ Não usando mutex:
 pi = 0.000004
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#5
 Usando mutex:
 
 pi = 3.141592
@@ -53,6 +62,8 @@ Não usando mutex:
 pi = 3.141592
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#6
 Usando mutex:
 
 pi = 3.141592
@@ -64,6 +75,8 @@ Não usando mutex:
 pi = 3.141592
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#7
 Usando mutex:
 
 pi = 3.141592
@@ -75,6 +88,8 @@ Não usando mutex:
 pi = -0.000001
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#8
 Usando mutex:
 
 pi = 3.141592
@@ -86,6 +101,8 @@ Não usando mutex:
 pi = 3.141592
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#9
 Usando mutex:
 
 pi = 3.141592
@@ -97,6 +114,8 @@ Não usando mutex:
 pi = 0.000014
 numero de iteracoes = 1000000
 numero de threads = 4
+
+#10
 Usando mutex:
 
 pi = 3.141592
