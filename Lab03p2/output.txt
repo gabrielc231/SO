@@ -1,0 +1,110 @@
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 0.000001
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 0.000004
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = -0.000001
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 0.000014
+numero de iteracoes = 1000000
+numero de threads = 4
+Usando mutex:
+
+pi = 3.141592
+numero de iteracoes = 1000000
+numero de threads = 4
+
+Não usando mutex:
+
+pi = 3.141591
+numero de iteracoes = 1000000
+numero de threads = 4
