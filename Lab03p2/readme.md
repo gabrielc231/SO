@@ -9,7 +9,9 @@
 	- `./<nome_desejado>`
 - **As saídas da execução da aplicação foram colocadas: no arquivo `output.txt`**
 
-- **Quando comparadas a versão com `mutex` e a versão sem, observa-se diferenças devido a condição de corrida**
+- **Quando comparadas a versão com `mutex` e a versão sem, observa-se diferenças devido a *condição de corrida***
+
+- **Sem a utlização do `mutex` o valor acumulado na `sum` não pode ser garantido**
 
 - **Foram colocadas screenshots da execução no ambiente aws dos códigos nos seguintes arquivos:**
 	-`console.png`
