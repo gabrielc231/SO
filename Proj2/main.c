@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include "queue.c"
 
+#define MAX_TESTES 100
+
 int maior(int a, int b)
 {
     return (a > b) ? a : b;   
@@ -65,7 +67,7 @@ int main()
 {
     int N;
     
-    for (int i = 1; i < 59; i++) {
+    for (int i = 1; i <= MAX_TESTES; i++) {
         char caminho_arq_saida[200] = "./output/E_";
         char caminho_arq_entrada[200] = "./input/E_";
         char n_arq[31];
@@ -75,8 +77,12 @@ int main()
         sprintf(n_arq,"%d",i);
         strcat(caminho_arq_entrada,n_arq);
         strcat(caminho_arq_saida,n_arq);
-        FILE* saida = fopen(caminho_arq_saida,"r");
-        FILE* entrada = fopen(caminho_arq_entrada,"r");
+        FILE* entrada;
+        FILE* saida;
+        if ((saida = fopen(caminho_arq_saida,"r")) == NULL ||
+            (entrada = fopen(caminho_arq_entrada,"r")) == NULL) {
+            continue;
+            }
         N = atoi(fgets(linha_entrada,200,entrada));
         int pessoas[N][2];
 
@@ -90,8 +96,10 @@ int main()
     temp = fgets(linha_saida,200,saida);
     int resultado = escada(pessoas, N);
     int resultado_esperado = atoi(linha_saida);
-	printf("Teste %d\n",i);
-	printf("%d %d\n\n", resultado, atoi(linha_saida));
+    if (resultado == resultado_esperado) {
+        printf("Teste %d\n",i);
+        printf("%d %d\n\n", resultado, atoi(linha_saida));
+    }
     fclose(entrada);
     fclose(saida);
 
