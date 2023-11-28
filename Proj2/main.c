@@ -90,10 +90,8 @@ int main()
     temp = fgets(linha_saida,200,saida);
     int resultado = escada(pessoas, N);
     int resultado_esperado = atoi(linha_saida);
-    if (resultado == resultado_esperado) {
-        printf("Teste %d\n",i);
-        printf("%d %d\n\n", resultado, atoi(linha_saida));
-    }
+	printf("Teste %d\n",i);
+	printf("%d %d\n\n", resultado, atoi(linha_saida));
     fclose(entrada);
     fclose(saida);
 
